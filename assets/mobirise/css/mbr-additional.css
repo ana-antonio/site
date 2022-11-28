@@ -2,7 +2,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Dancing Script', handwriting;
+  font-family: 'Allura', handwriting;
   font-size: 8rem;
   line-height: 1.1;
 }
@@ -682,13 +682,13 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-toouwO0Lad {
-  background-image: url("../../../assets/images/test3-872x769.png");
+.cid-tor9dEDesT {
+  background-color: #ffffff;
 }
-.cid-toouwO0Lad .mbr-fallback-image.disabled {
+.cid-tor9dEDesT .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-toouwO0Lad .mbr-fallback-image {
+.cid-tor9dEDesT .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -697,8 +697,8 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-toouwO0Lad .mbr-section-title {
-  text-align: center;
+.cid-tor9dEDesT .mbr-section-title {
+  color: #000000;
 }
 .cid-s48udlf8KU {
   padding-top: 5rem;
